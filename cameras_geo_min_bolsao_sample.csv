@@ -1,6 +1,6 @@
 id_camera,nome,rtsp,latitude,longitude,geometry,id_h3
 488,RUA OLOF PALM X ABRAÃO JABOUR,rtsp://admin:7lanmstr@10.52.209.117/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif,-22.978317,-43.416542,POINT (-43.416542 -22.978317),88a8a07519fffff
 591,R. FELIPE CARDOSO X AV. ENGº GASTÃO RANGEL,rtsp://admin:7lanmstr@10.52.208.27/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif,-22.92711,-43.678165,POINT (-43.678165 -22.92711),88a8a02a8bfffff
-1645,RUA VOLUNTÁRIOS DA PÁTRIA X RUA CAPITÃO SALOMÃO,rtsp://admin:7lanmstr@10.52.11.145/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif,-22.955652,-43.19636,POINT (-43.19636 -22.955652),88a8a07881fffff
+1215,"R. REAL GRANDEZA, 384 - BOTAFOGO  -  FIXA",rtsp://admin:7lanmstr@10.52.20.166/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif,-22.95953612,-43.19104971,POINT (-43.19104971 -22.95953612),88a8a0788dfffff
+1528,"AV. FRANCISCO BICALHO, 2042 - FIXA",rtsp://admin:7lanmstr@10.52.32.145/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif,-22.90635727,-43.21006306,POINT (-43.21006306 -22.90635727),88a8a0612dfffff
 1883,"R. JOSÉ DO PATROCÍNIO, 320-390",rtsp://admin:7lanmstr@10.52.26.149/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif,-22.919014,-43.262755,POINT (-43.262755 -22.919014),88a8a06151fffff
-3571,"PRAIA DA BANDEIRA, 726-728",rtsp://admin:7lanmstr@10.52.211.123/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif,-22.8044594,-43.17912073,POINT (-43.17912073 -22.8044594),88a8a068a9fffff
